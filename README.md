@@ -1,5 +1,5 @@
 # Microbial_Biofilm_Literature_Review
-Clinical Relevance and Pathophysiology of Microbial Biofilms in Chronic Infections
+**Clinical Relevance and Pathophysiology of Microbial Biofilms in Chronic Infections**
 
 A faculty-supervised collaborative literature review exploring microbial biofilm structure, formation, development, and clinical significance in chronic infections.
 
